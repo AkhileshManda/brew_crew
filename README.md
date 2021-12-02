@@ -1,6 +1,6 @@
 # brew_crew
 
-A new Flutter project.
+A brew preferences app using firebase. Includes Firebase auth and firebase realtime database. I made this project to learn how to integrate firebase with flutter
 
 ## Getting Started
 
